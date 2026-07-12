@@ -108,7 +108,7 @@ I've developed multiple projects using the **MERN Stack**, focusing on:
 - GitHub: https://github.com/Taufique-7
 
 
-- Email: yutaufique20@gmail.com
+- Email: utaufique20@gmail.com
 
 </p>
 
